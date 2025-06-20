@@ -1,5 +1,6 @@
 A .rar archive contains several Excel Spreadsheets (both interpolated and non-interpolated). 
-The SpaceLab.py is a file that contains correlation analysis made via the matplotlib and seaborn libraries. 
+The SpaceLab.py file contains correlation analysis performed using the matplotlib and seaborn libraries. 
+We should be working on the presentation for our team lead's pitch for StartX Accelerator.
 Other files should be added soon...
-Right now, I'm working for a website to showcase our progress in the seismology field.
+Currently, I'm working on a website to showcase our progress in the field of seismology.
 Thank you for reading this document!
