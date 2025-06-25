@@ -3,4 +3,5 @@ The SpaceLab.py file contains correlation analysis performed using the matplotli
 We should be working on the presentation for our team lead's pitch for StartX Accelerator.
 Other files should be added soon...
 Currently, I'm working on a website to showcase our progress in the field of seismology.
+I need to structure all data and make a presentation (lowkey cooked)
 Thank you for reading this document!
